@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="uname" value="uanme"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Git/gitprojects/seleniumProject">
+        <classes>
+            <class name="testCase1"></class>
+        </classes>
+    </test>
+
+    <!--<test verbose="2" preserve-order="true" name="C:/Git/gitprojects/seleniumProject">-->
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="reg"></include>-->
+            <!--</run>-->
+        <!--</groups>-->
+
+        <!--<classes >-->
+            <!--<class name="testCase1">-->
+                <!--<methods>-->
+                    <!--<include name="before.*">-->
+
+                    <!--</include>-->
+                <!--</methods>-->
+            <!--</class>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test verbose="2" preserve-order="true" name="C:/Git/gitprojects/seleniumProject">-->
+        <!--<packages>-->
+            <!--<package name=""/>-->
+        <!--</packages>-->
+    <!--</test>-->
+
+</suite>

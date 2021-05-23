@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="554" started-at="2021-05-23T15:15:02Z" finished-at="2021-05-23T15:15:02Z">
+    <groups>
+    </groups>
+    <test name="C:/Git/gitprojects/seleniumProject" duration-ms="554" started-at="2021-05-23T15:15:02Z" finished-at="2021-05-23T15:15:02Z">
+      <class name="testCase1">
+        <test-method status="PASS" signature="beforeTest1()[pri:0, instance:testCase1@1f5b51f]" name="beforeTest1" duration-ms="528" started-at="2021-05-23T15:15:02Z" finished-at="2021-05-23T15:15:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest1 -->
+        <test-method status="PASS" signature="beforeTest2(java.lang.String)[pri:0, instance:testCase1@1f5b51f]" name="beforeTest2" duration-ms="0" started-at="2021-05-23T15:15:02Z" finished-at="2021-05-23T15:15:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uanme]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest2 -->
+      </class> <!-- testCase1 -->
+    </test> <!-- C:/Git/gitprojects/seleniumProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
